@@ -1,0 +1,23 @@
+#principal{
+    color: white;
+    background-color: #78b200;
+    vertical-align: middle;
+   
+    
+}
+#corpo{
+    color: #0D5188;
+    
+}
+#tabela{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    text-align: center;
+    vertical-align: middle;
+    border-collapse:collapse;
+    width: 600px;
+    line-height: 2;
+}
+#linhasPares{
+    background-color:aquamarine
+}
